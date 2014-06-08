@@ -1,0 +1,10 @@
+testRepo2
+========================================================
+
+### Objective:
+The goal here is to do a little text and a little r code to get a sense of how markdown works.  Let’s throw together a scatter plot random normals against their indices.
+
+```{r}
+x <- rnorm(100)
+plot(x)
+```
